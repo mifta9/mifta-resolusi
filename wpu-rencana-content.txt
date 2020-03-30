@@ -2,7 +2,9 @@ Rencana kontent WPU
 -Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+-Structur Data Dasar
 -PHP Framework
- ^ Laravel
+    ^ Laravel
+-Pyton
