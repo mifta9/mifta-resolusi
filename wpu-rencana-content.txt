@@ -2,4 +2,5 @@ Rencana kontent WPU
 -Javascript
   * ES6
   * Framework Javascript
+-Structur Data Dasar
 -PHP Framework
