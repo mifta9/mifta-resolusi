@@ -7,4 +7,4 @@ Rencana kontent WPU
 -Structur Data Dasar
 -PHP Framework
     ^ Laravel
--Pyton    
+-Pyton
